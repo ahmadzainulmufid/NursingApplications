@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Nursing Applications</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logo">Logo</string>
+    <string name="title_faq">FAQ</string>
+    <string name="title_profile">Profil</string>
+    <string name="kampus">POLITEKNIK KESEHATAN\nJAKARTA 1\nJURUSAN KEPERAWATAN</string>
+    <string name="berita"><![CDATA[Berita & Informasi Jurusan Keperawatan]]></string>
+    <string name="akreditasi"><u>Akreditasi</u></string>
+    <string name="fasilitas"><u>Fasilitas</u></string>
+    <string name="galeri"><u>Galeri</u></string>
+    <string name="prestasi"><u>Prestasi</u></string>
 </resources>
