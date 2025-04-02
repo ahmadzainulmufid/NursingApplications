@@ -13,4 +13,18 @@
     <string name="fasilitas"><u>Fasilitas</u></string>
     <string name="galeri"><u>Galeri</u></string>
     <string name="prestasi"><u>Prestasi</u></string>
+    <string name="back">back</string>
+    <string name="akreditasii">AKREDITASI JURUSAN \nKEPERAWATAN</string>
+    <string name="pres1">Juara Favorit Lomba \nTari Ratoeh Jaroe</string>
+    <string name="pres3">Juara 2 Lomba \nTari Ratoeh Jaroeh</string>
+    <string name="pres4">Juara Favorit Lomba \nTari Ratoeh Jaroeh</string>
+    <string name="pres5">Juara 3 Lomba \nBulutangkis Putra</string>
+    <string name="pres6">Lomba Futsal Juara I</string>
+    <string name="pres8">Lomba Poster Juara 4</string>
+    <string name="pres7">Lomba Cerdas \nCermat Juara 2</string>
+    <string name="pres9"><![CDATA[ Lomba Poster Juara 5]]></string>
+    <string name="pres10">Lomba Pre Hospital \nJuara 5</string>
+    <string name="juara"><![CDATA[Juara I Lomba Sosio Drama “Penganangan Dini \nSerangan Jantung”]]></string>
+    <string name="juara1"><![CDATA[Emergency & Disaster Nursing Student \nChampionship (NSC) 2021]]></string>
+    <string name="juara2">2nd Pra- Hospital Nursing Competition 2022</string>
 </resources>

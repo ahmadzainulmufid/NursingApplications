@@ -1,5 +1,6 @@
 package com.example.nursingapplications.ui.home
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -18,7 +19,23 @@ class HomeFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
+        setupIntentViews()
         return binding.root
+    }
+
+    private fun setupIntentViews() {
+        binding.tvAkreditasi.setOnClickListener {
+            startActivity(Intent(requireContext(), AkreditasiActivity::class.java))
+        }
+        binding.tvFasilitas.setOnClickListener {
+            startActivity(Intent(requireContext(), FasilitasActivity::class.java))
+        }
+        binding.tvGaleri.setOnClickListener {
+            startActivity(Intent(requireContext(), GaleriActivity::class.java))
+        }
+        binding.tvPrestasi.setOnClickListener {
+            startActivity(Intent(requireContext(), PrestasiActivity::class.java))
+        }
     }
 
     override fun onDestroyView() {
