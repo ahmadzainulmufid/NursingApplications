@@ -27,4 +27,25 @@
     <string name="juara"><![CDATA[Juara I Lomba Sosio Drama “Penganangan Dini \nSerangan Jantung”]]></string>
     <string name="juara1"><![CDATA[Emergency & Disaster Nursing Student \nChampionship (NSC) 2021]]></string>
     <string name="juara2">2nd Pra- Hospital Nursing Competition 2022</string>
+    <string name="visi"><![CDATA[VISI & MISI JURUSAN\nKEPERAWATAN]]></string>
+    <string name="struktur">STRUKTUR ORGANISASI\n2024 - 2029</string>
+    <string name="sejarah">SEJARAH JURUSAN\nKEPERAWATAN</string>
+    <string name="sejarah1">
+        • Berdiri tahun 1972 sebagai Sekolah Guru Keperawatan (SGP) Depkes RI Jakarta.\n
+        • Mendidik guru perawat selama 1 tahun untuk mengajar di SPK.\n
+        • Peserta didik berasal dari berbagai daerah di Indonesia.\n
+        • Berlangsung hingga 1988, meluluskan 15 angkatan dengan 650 lulusan.</string>
+    <string name="sejarah2">
+        • Tahun 1988, pendidikan ditingkatkan menjadi 3 tahun dan berganti nama menjadi Akademi Keperawatan Wijayakusuma Jakarta.\n
+        • Berdasarkan SK Menkes No 71/Kep/Diknakes/V/1985 untuk memenuhi kebutuhan tenaga kesehatan nasional.\n
+        • Awalnya hanya menerima lulusan SPK (3 tahun) dan SGP (2 tahun) dari berbagai daerah.\n
+    </string>
+    <string name="sejarah3">
+        • 1996/1997: Tidak lagi menerima lulusan SGP, hanya menerima SPK/Bidan.\n
+        • 1997/1998: Mulai menerima lulusan SMU (Fisika &amp; Biologi) melalui Jalur Umum.\n
+    </string>
+    <string name="sejarah4">
+        • 16 April 2001, berubah status menjadi Jurusan Keperawatan Politeknik Kesehatan Kemenkes Jakarta I.\n
+        • Berdasarkan SK Menkes-Kesos No 298/Menkes-Kesos/SK/IV/2001.\n
+    </string>
 </resources>

@@ -13,6 +13,18 @@
         android:theme="@style/Theme.NursingApplications"
         tools:targetApi="31">
         <activity
+            android:name=".ui.profile.TenagaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.profile.VisiMisiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.profile.StrukturActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.profile.SejarahActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.home.PrestasiActivity"
             android:exported="false" />
         <activity
